@@ -1,5 +1,6 @@
-#container {
-
+body {
+    text-align: center;
+    margin: 10px auto;
 }
 #input-el {
  background: white;
